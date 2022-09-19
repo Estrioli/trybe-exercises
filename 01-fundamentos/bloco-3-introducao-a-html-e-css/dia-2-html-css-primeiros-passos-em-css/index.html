@@ -6,20 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML</title>
     <style>
+
+        body {
+            font-size: 16px;
+        }
         
         h1 {
+            text-decoration: underline;
+            font-family: sans-serif;
             font-size: 65px;
+            font-weight: 600;
             height: 85px;
          width: auto;
+         text-align: center;
          color: orange; 
          background-color: black;
         }
+        .yellow{
+            background-color: yellow;
+        }
+        .red{
+            background-color: red;
+        }
+        .brown{
+            background-color: brown;
+        }
         li {
             background-color: bisque;
+            font-size: 2em;
+            font-style: oblique;
         }
         .tag-style {
             background-color: rgb(33, 133, 133);
-            color: black;
+            color: black;  
+        }
+        p{
+            font-weight: 600;
+            font-size: 3em;
+            text-align: center
         }
     </style>
 </head>
@@ -27,9 +51,9 @@
     <h1>Exercise 3.2</h1>
     <p class="tag-style">What is your favorite color?</p>
     <ul class="tag-style">
-        <li>Yellow</li>
-        <li>Red</li>
-        <li>Brown</li>
+        <li class="yellow">Yellow</li>
+        <li class="red">Red</li>
+        <li class="brown">Brown</li>
     </ul>
 </body>
 </html>
