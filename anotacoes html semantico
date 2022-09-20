@@ -1,0 +1,32 @@
+aula html semantico
+
+- w3school documentacao de html  IMPORTANTE
+
+- section = secao que engloba varios itens inclusive header
+
+- nav = tag que engloba varios links  
+
+- main = tag que engloba conteudo principal
+
+-article = para artigos especificos 
+
+
+ORDEM QUE COSTUMA TER  
+
+<header></header>
+
+    <nav></nav>    
+                                
+    <main>
+    
+    <article></article>
+    
+    <section></section>
+    
+    <aside></aside>
+     
+    </main>
+ 
+    <footer></footer>
+  </body>
+  
