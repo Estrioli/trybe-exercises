@@ -1,0 +1,29 @@
+anotações aula 4.1 introducao JS
+
+para vincular o javascript com html basta usar a tag  <script><script>
+
+especificar o arquivo usando  ./arquivo
+./script.js  mostra arquivos da pasta
+
+console.log(typeof(variavel));
+ele vai mostrar o valor da variavel 
+e tambem o tipo dela
+
+let adsda;    >>>undefined
+let sdasd = null;  ... null
+
+exemplo de comparações 
+
+compare = num1 > num2 
+ele vai retornar no console.log  valor TRUE ou FALSE
+
+
+sobre ferramenta debug - USE E ABUSE
+
+colocar o break point para ele para no lugar desejado
+ 
+ajuda a visualizar o problema no codigo
+
+
+
+
