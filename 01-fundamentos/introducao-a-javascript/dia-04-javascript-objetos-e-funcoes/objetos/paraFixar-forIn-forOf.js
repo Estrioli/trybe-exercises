@@ -6,7 +6,7 @@ let names = {
 
   for (let key in names) {
     {
-      console.log('Olá ' + names.person1)
+      console.log('Olá ' + names[key])
       
     }
   }
@@ -18,6 +18,6 @@ let names = {
     year: 2020
   };
   for (let key in car) {
-    console.log(car)
+    console.log(key, ':', car[key])
     }
   
