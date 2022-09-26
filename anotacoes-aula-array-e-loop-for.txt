@@ -1,0 +1,40 @@
+anotaçoes aula array e  loop for 
+
+comandos interessantes:
+
+.unshift() - adiciona algo no inicio da array ao inves do final com .push()
+
+.pop() - remove o ULTIMO item do array
+.shift() - remove o PRIMEIRO item da array
+
+for
+
+exemplo contador de tabuada
+
+let numero = 7
+for (let contador =1 ; contador <= 9; contador+= 1) {
+console.log(numero * contador);
+
+ITERAR - significa que vai fazer alguma coisa com um determinado elemento
+
+
+for of exemplo
+
+for(let index of lotteriNumbers) {
+console.log(index);
+}
+
+math.random() gera numero aleatorio
+
+math.ceil()arredonda numero  pra cima
+
+math.floor()arredonda numero pra baixo
+
+PODE USAR JUNTO
+
+exemplo:  console.log(Math.ceil(Math.random * 60 ))
+
+
+
+    
+
