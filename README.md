@@ -29,7 +29,7 @@ Este arquivo contém todas as atividades desenvolvidas por [mim](https://www.lin
 - [ ] 4.2 - JavaScript - Array e loop For
 - [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [x] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]
 - [ ] 5.1 - JavaScript - DOM e seletores
@@ -37,7 +37,7 @@ Este arquivo contém todas as atividades desenvolvidas por [mim](https://www.lin
 - [ ] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos
-- [ ] 5.5 - Projeto - Arte com Pixels
+- [x] 5.5 - Projeto - Arte com Pixels
 - [ ] 5.6 - Projeto - Lista de tarefas
 - [ ] 5.7 - (Bônus) Projeto - Meme Generator
 - [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
@@ -50,13 +50,13 @@ Este arquivo contém todas as atividades desenvolvidas por [mim](https://www.lin
 - [ ] 6.3 - CSS Flexbox - Parte 1
 - [ ] 6.4 - CSS Flexbox - Parte 2
 - [ ] 6.5 - CSS Responsivo - Mobile First
-- [ ] 6.6 - Projeto - Página inicial do Facebook
+- [x] 6.6 - Projeto - Trybewarts
 
 ##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]
 - [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
+- [x] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8: [Higher Order Functions do JavaScript ES6]
 - [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
