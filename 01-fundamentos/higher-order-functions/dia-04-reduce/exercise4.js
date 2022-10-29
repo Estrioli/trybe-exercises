@@ -12,12 +12,27 @@ const grades = [
 ];
 
 const studentAverage = (students, grades) => {
-  return students.map((student, index) => {
-    let media =
-      grades[index].reduce((acc, cur) => {
-        return acc + cur;
-      }) / 5;
-    return { name: student, average: media };
+  return students.map((student, index) => {     //'pedro henrique'
+      let media = grades[index].reduce((acc, cur) => {       //[9, 8, 10, 7, 5] 
+        return acc + cur;   //soma as notas
+      }) / 5;  // divide a soma/qtd  para media
+   return { name: student, average: media }; //retorno do map 
   });
 };
 console.log(studentAverage(students, grades));
+
+
+// const numbers = [1,2,3,4,5]
+// const vogais = ['a', 'e', 'i', 'o', 'u']
+
+// numbers.forEach((numero, index) => {
+// console.log(numbers[index], vogais[index]);
+// })
+
+//retorna um array com cada elemento ao quadrado
+
+// let numberQuadrado = numbers.map((number) => (number**2))
+// console.log(numberQuadrado);
+
+// let umNumero = numbers.reduce((acc, number) => acc+number)
+// console.log(umNumero);
