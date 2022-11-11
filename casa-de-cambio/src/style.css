@@ -1,0 +1,21 @@
+body{
+    background-color: darkgray;
+}
+
+h1 {
+    
+}
+
+label {
+
+}
+
+.coins {
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px
+}
+
+ul {
+    list-style: none;
+}
