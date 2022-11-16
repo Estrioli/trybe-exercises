@@ -1,0 +1,38 @@
+body {
+    background-color: #a2a8d3;
+    color: #113f67;
+    font-family: 'Rubik Bubbles', cursive, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #e7eaf6;
+border: 1px solid;
+border-radius: 5px;
+padding: 30px;
+
+}
+
+form {
+    display: flex;
+    gap: 10px;
+}
+
+#answer {
+    margin-top: 20px;
+    font-size: 22px;
+
+}
+
+#button {
+    background-color: #38598b;
+    padding: 16px 20px;
+    transition: 1ms ease;
+}
+
+#button:hover{
+    background-color: #738094; 
+}
